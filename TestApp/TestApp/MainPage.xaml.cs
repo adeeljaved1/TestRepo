@@ -13,6 +13,7 @@
         {
             count++;
             //comment
+            //another comment
             if (count == 1)
                 CounterBtn.Text = $"Clicked {count} time";
             else
